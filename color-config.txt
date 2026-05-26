@@ -1,0 +1,92 @@
+===========================
+Niri config:
+===========================
+// Color of the ring on the active monitor.
+active-color "#003A35"
+===========================
+Niri config:
+===========================
+
+
+===========================
+kitty config:
+===========================
+enable_audio_bell no
+confirm_os_window_close 0
+
+# Colors
+foreground #c2c2b0
+background #222222
+
+# Cursor
+cursor_text_color #eeeeee
+cursor #c7c7c7
+
+# Selection
+selection_foreground #000000
+selection_background #e5c47b
+
+# Normal colors
+color0 #000000
+color1 #c83c25
+color2 #5f875f
+color3 #b36d43
+color4 #78824b
+color5 #bb7744 
+color6 #5f875f
+color7 #d7c483
+
+# Bright colors
+color8 #666666
+color9 #c83c25
+color10 #5f875f
+color11 #b36d43
+color12 #78824b
+color13 #bb7744
+color14 #c9a554
+color15 #d7c483
+
+# Window padding
+window_padding_width 15
+window_padding_height 15
+
+# Opacity
+background_opacity 0.9
+
+# Font
+font_size 12
+font_family Px437 DOS/V re. ANK16
+
+# Keyboard shortcuts for scrolling
+map shift+i scroll_page_up
+map shift+u scroll_page_down
+map shift+k scroll_line_up
+map shift+j scroll_line_down
+===========================
+kitty config:
+===========================
+
+
+===========================
+fuzzel config:
+===========================
+[colors]
+background=1f1f28CC
+text=c8c093ff
+prompt=c0a36eff
+placeholder=7e9cd8ff
+input=76946aff
+match=7e9cd8ff
+selection=76946a80
+selection-text=c8c093ff
+selection-match=1f1f28ff
+counter=c0a36eff
+border=76946aff
+===========================
+fuzzel config:
+===========================
+
+
+===========================
+noctalia-shell color-scheme - "kanagawa"
+===========================
